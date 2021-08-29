@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/component/Video.css"],"names":[],"mappings":"AAAA,MACC,YAAa,CACb,cACD,CAEA,GACC,gBACD","file":"main.51b479aa.chunk.css","sourcesContent":[".list {\r\n\tdisplay: flex;\r\n\tcursor: pointer;\r\n}\r\n\r\nh4 {\r\n\tmargin: 10px 20px;\r\n}\r\n"]}

@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/akyravish/Video_app.git/static/css/main.51b479aa.chunk.css",
+    "main.js": "/akyravish/Video_app.git/static/js/main.e412d10c.chunk.js",
+    "main.js.map": "/akyravish/Video_app.git/static/js/main.e412d10c.chunk.js.map",
+    "runtime-main.js": "/akyravish/Video_app.git/static/js/runtime-main.41326fdd.js",
+    "runtime-main.js.map": "/akyravish/Video_app.git/static/js/runtime-main.41326fdd.js.map",
+    "static/js/2.17ef9ccd.chunk.js": "/akyravish/Video_app.git/static/js/2.17ef9ccd.chunk.js",
+    "static/js/2.17ef9ccd.chunk.js.map": "/akyravish/Video_app.git/static/js/2.17ef9ccd.chunk.js.map",
+    "index.html": "/akyravish/Video_app.git/index.html",
+    "static/css/main.51b479aa.chunk.css.map": "/akyravish/Video_app.git/static/css/main.51b479aa.chunk.css.map",
+    "static/js/2.17ef9ccd.chunk.js.LICENSE.txt": "/akyravish/Video_app.git/static/js/2.17ef9ccd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41326fdd.js",
+    "static/js/2.17ef9ccd.chunk.js",
+    "static/css/main.51b479aa.chunk.css",
+    "static/js/main.e412d10c.chunk.js"
+  ]
+}
